@@ -33,6 +33,7 @@
 ## 📁 폴더 및 파일 구조
 
 ```
+https://github.com/junestyle76/scd
 \scd_main\
 ├── index.html              # 현대화된 메인 홈페이지 HTML5
 ├── css/
@@ -53,5 +54,5 @@
 
 ## 🚀 실행 방법
 
-1. 브라우저에서 `.\scd_main\index.html` 파일을 직접 열람합니다.
+1. 브라우저에서 `https://junestyle76.github.io/scd/` 파일을 직접 열람합니다.
 2. 별도의 웹서버 없이도 모든 인터랙티브 기능(슬라이더, 검색, 모달, 테마 전환 등)이 정상 작동합니다.
