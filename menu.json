@@ -1,0 +1,181 @@
+[
+  {
+    "group": "회사소개",
+    "items": [
+      {
+        "name": "인사말",
+        "url": "company/index.jsp"
+      },
+      {
+        "name": "경영이념",
+        "url": "company/management.jsp"
+      },
+      {
+        "name": "가치체계",
+        "url": "company/vision.jsp"
+      },
+      {
+        "name": "회사연혁",
+        "url": "company/history.jsp"
+      },
+      {
+        "name": "회사개요",
+        "url": "company/outline.jsp"
+      },
+      {
+        "name": "재무현황",
+        "url": "company/financial.jsp"
+      },
+      {
+        "name": "회사조직도",
+        "url": "company/organization.jsp"
+      },
+      {
+        "name": "공장",
+        "url": "company/factory.jsp"
+      },
+      {
+        "name": "중앙연구소",
+        "url": "company/institute.jsp"
+      },
+      {
+        "name": "지점",
+        "url": "company/trade.jsp"
+      },
+      {
+        "name": "오시는길",
+        "url": "company/location.jsp"
+      }
+    ]
+  },
+  {
+    "group": "제품소개",
+    "items": [
+      {
+        "name": "신제품소개",
+        "url": "product/newProduct/index.jsp"
+      },
+      {
+        "name": "처방의약품",
+        "url": "product/special/index.jsp"
+      },
+      {
+        "name": "일반의약품",
+        "url": "product/general/index.jsp"
+      },
+      {
+        "name": "건강기능식품",
+        "url": "product/health/index.jsp"
+      },
+      {
+        "name": "제품검색",
+        "url": "product/search/index.jsp"
+      },
+      {
+        "name": "제품안전성정보",
+        "url": "product/safe/index.jsp"
+      }
+    ]
+  },
+  {
+    "group": "기업홍보",
+    "items": [
+      {
+        "name": "IR",
+        "url": "advertise/advertising_ir.jsp"
+      },
+      {
+        "name": "삼천당소식",
+        "url": "advertise/scdnews/index.jsp"
+      },
+      {
+        "name": "광고",
+        "url": "advertise/advertising/index.jsp"
+      },
+      {
+        "name": "EU GMP",
+        "url": "advertise/elixir/index.jsp"
+      }
+    ]
+  },
+  {
+    "group": "채용정보",
+    "items": [
+      {
+        "name": "채용안내",
+        "url": "recruit/advice.jsp"
+      },
+      {
+        "name": "인사제도 복리후생",
+        "url": "recruit/welfare.jsp"
+      },
+      {
+        "name": "채용공고",
+        "url": "recruit/recruit/index.jsp"
+      },
+      {
+        "name": "채용관련문의",
+        "url": "recruit/qna.jsp"
+      }
+    ]
+  },
+  {
+    "group": "고객지원",
+    "items": [
+      {
+        "name": "약국찾기",
+        "url": "board/pharmacy.jsp"
+      },
+      {
+        "name": "제품관련문의",
+        "url": "board/qna.jsp"
+      },
+      {
+        "name": "고객제안",
+        "url": "board/proposal.jsp"
+      }
+    ]
+  },
+  {
+    "group": "자율준수",
+    "items": [
+      {
+        "name": "선언문",
+        "url": "cp/index.jsp"
+      },
+      {
+        "name": "개요",
+        "url": "cp/summery.jsp"
+      },
+      {
+        "name": "조직도",
+        "url": "cp/organization.jsp"
+      },
+      {
+        "name": "법령",
+        "url": "cp/statute.jsp"
+      },
+      {
+        "name": "사이버신문고",
+        "url": "cp/smg_index.jsp"
+      }
+    ]
+  },
+  {
+    "group": "ISO37301",
+    "items": [
+      {
+        "name": "방침",
+        "url": "iso/policy.jsp"
+      },
+      {
+        "name": "인증자료",
+        "url": "iso/index.jsp"
+      },
+      {
+        "name": "인증활동",
+        "url": "iso/board/index.jsp"
+      }
+    ]
+  }
+]

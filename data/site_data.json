@@ -1,0 +1,238 @@
+{
+  "company": {
+    "name": "삼천당제약(주)",
+    "name_en": "SamCheonDang Pharm. Co., Ltd.",
+    "established": "1943년",
+    "ceo": "전인석",
+    "business_no": "118-81-01614",
+    "address": "서울특별시 서초구 효령로 351 (서초동, 삼천당제약빌딩)",
+    "factory_address": "경기도 화성시 향남읍 제약공단2길 26 (향남제약공단)",
+    "tel": "02-585-6161",
+    "fax": "02-585-6169",
+    "slogan": "인간 생명의 존엄성을 바탕으로 인류의 건강과 행복을 추구하는 기업",
+    "vision": "글로벌 안과의약품 & 바이오시밀러 선도 제약 바이오 기업",
+    "core_values": [
+      {
+        "title": "인간존중",
+        "desc": "생명의 존엄성을 최우선 가치로 여기며 인류 건강 증진에 기여합니다."
+      },
+      {
+        "title": "기술혁신",
+        "desc": "독자적인 무균 점안제 제조 기술 및 바이오 신약 파이프라인을 구축합니다."
+      },
+      {
+        "title": "글로벌 도약",
+        "desc": "미국 cGMP, 유럽 EU-GMP 기준의 최고 수준 품질 경쟁력을 바탕으로 세계 시장으로 도약합니다."
+      },
+      {
+        "title": "윤리경영",
+        "desc": "투명하고 공정한 준법경영과 ISO37301 규범준수로 신뢰받는 기업이 됩니다."
+      }
+    ],
+    "stats": [
+      {
+        "label": "설립 연도",
+        "value": "1943",
+        "suffix": "년 (80+년 전통)"
+      },
+      {
+        "label": "주요 분야",
+        "value": "안과용제",
+        "suffix": "국내 1위 기술력"
+      },
+      {
+        "label": "글로벌 인증",
+        "value": "EU-GMP / cGMP",
+        "suffix": "무균 점안제 전용라인"
+      },
+      {
+        "label": "수출 국가",
+        "value": "30+",
+        "suffix": "개국 글로벌 네트워크"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "삼천당제약 공식 텔레그램 채널 개설 안내",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=0&textCondition=&no=340"
+    },
+    {
+      "title": "[대표이사 서신] 삼천당제약 주주 여러분께 드리는 글",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=1&textCondition=&no=339"
+    },
+    {
+      "title": "제83기 임시주주총회를 위한 기준일 공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=2&textCondition=&no=337"
+    },
+    {
+      "title": "삼천당제약(주) 제82기 결산공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=3&textCondition=&no=336"
+    },
+    {
+      "title": "삼천당제약㈜ 제82기 사업보고서 게재",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=4&textCondition=&no=335"
+    },
+    {
+      "title": "삼천당제약㈜ 제82기 정기주주총회 소집공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=5&textCondition=&no=334"
+    },
+    {
+      "title": "제82기 정기주주총회 및 이익배당을 위한 기준일 공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=6&textCondition=&no=333"
+    },
+    {
+      "title": "제82기 임시주주총회를 위한 기준일 공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=7&textCondition=&no=332"
+    },
+    {
+      "title": "삼천당제약(주) 제81기 결산공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=8&textCondition=&no=331"
+    },
+    {
+      "title": "삼천당제약㈜ 제81기 사업보고서 게재",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=9&textCondition=&no=330"
+    },
+    {
+      "title": "삼천당제약㈜ 제81기 정기주주총회 소집공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=10&textCondition=&no=329"
+    },
+    {
+      "title": "제81기 정기주주총회 및 이익배당을 위한 기준일 공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=11&textCondition=&no=328"
+    },
+    {
+      "title": "삼천당제약(주) 제80기 결산공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=12&textCondition=&no=327"
+    },
+    {
+      "title": "삼천당제약㈜ 제80기 사업보고서 게재",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=13&textCondition=&no=326"
+    },
+    {
+      "title": "삼천당제약㈜ 제80기 정기주주총회 소집공고",
+      "url": "http://www.scd.co.kr/advertise/scdnews/view.jsp?reqPageNo=1&rowCount=328&rowNum=14&textCondition=&no=325"
+    }
+  ],
+  "products": [],
+  "available_images": [
+    "advertise_subject.gif",
+    "advertising_subject.gif",
+    "advice_subject.gif",
+    "ares_case.jpg",
+    "bg_bor_bottom.gif",
+    "bg_bor_center.gif",
+    "bg_bor_top.gif",
+    "btn_more.gif",
+    "btn_page_end.gif",
+    "btn_rou_pha.gif",
+    "btn_rou_qna.gif",
+    "btn_rou_rec.gif",
+    "btn_search2.gif",
+    "clivent.jpg",
+    "company02.gif",
+    "company_top_img.gif",
+    "company_top_img2.gif",
+    "company_top_img6.gif",
+    "company_top_img7.gif",
+    "company_top_img8.gif",
+    "company_top_padding.gif",
+    "cp_subject.gif",
+    "dacu.jpg",
+    "dd.jpg",
+    "dia1.jpg",
+    "dir60.jpg",
+    "eugmp_subject.gif",
+    "factory02.gif",
+    "factory_na.gif",
+    "factory_sub.gif",
+    "factory_subject.gif",
+    "financial_subject.gif",
+    "foot_logo.gif",
+    "general_subject.gif",
+    "h10.jpg",
+    "hame.jpg",
+    "hameron2.jpg",
+    "Hameron_m_5mL.jpg",
+    "health_subject.gif",
+    "history_subject.gif",
+    "hmeS.jpg",
+    "Iin.jpg",
+    "insa_subject.gif",
+    "institute01.gif",
+    "institute05.gif",
+    "institute_subject.gif",
+    "iris.jpg",
+    "IRISCARE.jpg",
+    "Irisjumanaek.jpg",
+    "irs.jpg",
+    "kepran.jpg",
+    "location_na.gif",
+    "location_sub.gif",
+    "location_subject.gif",
+    "login_center_line.gif",
+    "login_contact.gif",
+    "login_english.gif",
+    "login_home.gif",
+    "login_left.gif",
+    "login_login.gif",
+    "login_right.gif",
+    "login_sitemap.gif",
+    "logo.gif",
+    "mainImg02.jpg",
+    "management_subject.gif",
+    "menu_01.gif",
+    "menu_02.gif",
+    "menu_03.gif",
+    "menu_04.gif",
+    "menu_05.gif",
+    "menu_08.gif",
+    "menu_09.gif",
+    "menu_center.gif",
+    "outline_subject.gif",
+    "personnal_data.gif",
+    "pharmacy_subject.gif",
+    "policy_subject.gif",
+    "prod_subject.gif",
+    "recruit2_subject.gif",
+    "recruit_img001.gif",
+    "recruit_img002.gif",
+    "recruit_img003.gif",
+    "recruit_img004.gif",
+    "recruit_img005.gif",
+    "recruit_img006.gif",
+    "recruit_img007.gif",
+    "recruit_img_01.gif",
+    "recruit_img_03.gif",
+    "recruit_img_04.gif",
+    "recruit_img_05.gif",
+    "scd_prod.gif",
+    "search_back.gif",
+    "search_subject.gif",
+    "Sinfool_A.jpg",
+    "special_subject.gif",
+    "sporin1.jpg",
+    "sub01_02_img.jpg",
+    "sub01_03_img.gif",
+    "sub01_04_img.JPG",
+    "sub01_04_img_2.gif",
+    "tit_company.gif",
+    "tit_cp.gif",
+    "tit_cs.gif",
+    "tit_iso.gif",
+    "tit_product.gif",
+    "tit_prroom.gif",
+    "tit_recruit.gif",
+    "top_subMenuBg_left.png",
+    "top_subMenuBg_right.png",
+    "tp_new_pro.png",
+    "tp_new_scd.png",
+    "tp_speed_sch.png",
+    "vision_subject.gif",
+    "vs_01.jpg",
+    "vs_02.jpg",
+    "vs_03.jpg",
+    "v_free.jpg",
+    "v_jusa.jpg"
+  ]
+}

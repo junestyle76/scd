@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<Menu>
+	<Group name="회사소개" leftMargin="-140">
+		<Item name="인사말" 		menuWidth="70" loadFile="company/index.jsp" />
+		<Item name="경영이념" 	menuWidth="80" loadFile="company/management.jsp" />
+		<Item name="가치체계" 	menuWidth="80" loadFile="company/vision.jsp" />
+		<Item name="회사연혁" 	menuWidth="80" loadFile="company/history.jsp" />
+		<Item name="회사개요" 	menuWidth="80" loadFile="company/outline.jsp" />
+		<Item name="재무현황" 	menuWidth="80" loadFile="company/financial.jsp" />
+		<Item name="회사조직도" 	menuWidth="80" loadFile="company/organization.jsp" />
+		<Item name="공장" 		menuWidth="70" loadFile="company/factory.jsp" />
+		<Item name="중앙연구소" 	menuWidth="80" loadFile="company/institute.jsp" />
+		<Item name="지점" 		menuWidth="70" loadFile="company/trade.jsp" />
+		<Item name="오시는길" 	menuWidth="80" loadFile="company/location.jsp" />
+	</Group>
+	<Group name="제품소개" leftMargin="-50">
+		<Item name="신제품소개" 		menuWidth="100" loadFile="product/newProduct/index.jsp" />
+		<Item name="처방의약품" 		menuWidth="100" loadFile="product/special/index.jsp" />
+		<Item name="일반의약품" 		menuWidth="100" loadFile="product/general/index.jsp" />
+		<Item name="건강기능식품" 		menuWidth="100" loadFile="product/health/index.jsp" />
+		<Item name="제품검색" 		menuWidth="100" loadFile="product/search/index.jsp" />
+		<Item name="제품안전성정보" 	menuWidth="100" loadFile="product/safe/index.jsp" />
+	</Group>
+	<Group name="기업홍보" leftMargin="100">
+		<Item name="IR" 		menuWidth="50" loadFile="advertise/advertising_ir.jsp" />
+		<Item name="삼천당소식" 	menuWidth="100" loadFile="advertise/scdnews/index.jsp" />
+		<Item name="광고" 		menuWidth="80" loadFile="advertise/advertising/index.jsp" />
+		<Item name="EU GMP" 	menuWidth="80" loadFile="advertise/elixir/index.jsp" />
+		<!--  <Item name="사외보" 		menuWidth="80" loadFile="advertise/elixir/index.jsp" />	-->
+	</Group>  
+	<Group name="채용정보" leftMargin="150">
+		<Item name="채용안내" 			menuWidth="100" loadFile="recruit/advice.jsp" />
+		<Item name="인사제도 복리후생" 		menuWidth="120" loadFile="recruit/welfare.jsp" />
+		<Item name="채용공고" 			menuWidth="100" loadFile="recruit/recruit/index.jsp" />
+		<Item name="채용관련문의" 			menuWidth="100" loadFile="recruit/qna.jsp" />
+	</Group>
+	<Group name="고객지원" leftMargin="230">		 
+		<Item name="약국찾기" 		menuWidth="100" loadFile="board/pharmacy.jsp" /> 
+		<Item name="제품관련문의" 		menuWidth="100" loadFile="board/qna.jsp" />
+		<Item name="고객제안" 		menuWidth="100" loadFile="board/proposal.jsp" />
+	</Group>
+	<Group name="자율준수" leftMargin="300">
+		<Item name="선언문" 			menuWidth="80" loadFile="cp/index.jsp" />
+		<Item name="개요" 			menuWidth="80" loadFile="cp/summery.jsp" />
+		<Item name="조직도" 			menuWidth="80" loadFile="cp/organization.jsp" />
+		<Item name="법령" 			menuWidth="80" loadFile="cp/statute.jsp" />
+		<Item name="사이버신문고" 		menuWidth="80" loadFile="cp/smg_index.jsp" />
+	</Group>
+	<Group name="ISO37301" leftMargin="370">
+		<Item name="방침" 		menuWidth="80" loadFile="iso/policy.jsp" />
+	 	<Item name="인증자료" 	menuWidth="80" loadFile="iso/index.jsp" />
+	 	<Item name="인증활동" 	menuWidth="80" loadFile="iso/board/index.jsp" />
+	</Group>
+</Menu> 
